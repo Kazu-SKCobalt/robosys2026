@@ -1,6 +1,6 @@
 # robosys2026
 # plusコマンド
-![test](https://github.com/<Kazu-SKCobalt>/robosys2026/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Kazu-SKCobalt/robosys2026/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数字を足す
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
