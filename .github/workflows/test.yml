@@ -12,5 +12,8 @@ jobs:
       uses: actions/setup-python@v6
       with:
         python-version: ${{ matrix.python-version }}
-    - name: All test
+    - name: plus test
       run: bash -xv ./test.bash
+    - name: AveVSd test
+      if: always()
+      run: bash -xv ./test2.bash
