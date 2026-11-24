@@ -1,8 +1,12 @@
 # robosys2026
 # plusコマンド
 ![test](https://github.com/Kazu-SKCobalt/robosys2026/actions/workflows/test.yml/badge.svg)
-
+plus:
 標準入力から読み込んだ数字を足す
+AveVsd:
+標準入力から読み込んだ数字の平均、分散、標準偏差を求める
+数値を入力してUbuntuまたはLinuxであればctrl+D、Windowsであればctrl+zをしてEnterで結果がでる。
+
 - このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます。
 - このパッケージは、aaa由来のコード（© 2025 Hoge Fuge）を利用しています。
 - このパッケージのコードは、下記のスライド（CC BY-SA 4.0 by Taro Suzuki）のものを、
