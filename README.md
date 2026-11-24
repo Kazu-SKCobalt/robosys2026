@@ -1,5 +1,5 @@
 # robosys2026
-# plusコマンド
+# plusコマンド・AveVSd
 ![test](https://github.com/Kazu-SKCobalt/robosys2026/actions/workflows/test.yml/badge.svg)
 plus:
 標準入力から読み込んだ数字を足す
